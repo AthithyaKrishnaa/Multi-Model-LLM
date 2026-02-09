@@ -11,7 +11,6 @@ A powerful multimodal AI chatbot that can process and understand text, images, v
 - **🖼️ Image Captioning**: Generate detailed descriptions of images using BLIP
 - **🎥 Video Analysis**: Process videos frame-by-frame with intelligent summarization
 - **🎤 Audio Transcription**: Convert speech to text with Whisper (supports multiple languages)
-- **🎨 Beautiful UI**: Modern gradient interface with WhatsApp-inspired chat design
 - **☁️ Cloud Ready**: Designed to run on Google Colab with GPU acceleration
 
 ## 🚀 Quick Start
