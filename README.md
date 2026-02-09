@@ -1,4 +1,4 @@
-# 💬 Multimodal AI Assistant
+#  Multimodal AI Assistant
 
 A powerful multimodal AI chatbot that can process and understand text, images, videos, and audio. Built with cutting-edge open-source models and powered by Gradio for an intuitive user interface.
 
